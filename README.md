@@ -10,23 +10,8 @@
 - [Credits](#Credits)
 - [Questions](#Questions)
 ---
-## Description
-### Zap is an app created to combine the project management and bug tracking aspects of app development. You can ask for help both within your group or ask the community. Our goal is to streamline the process of app development by giving you one place to manage projects and ask any and all questions related to development. Let's get Zapping!
----
-## Screenshots
-<details>
- <summary>Click to reveal!</summary>
-<img src='./client/src/images/Zap login.png' width= '800px'>
-<img src='./client/src/images/Zap register.png' width= '800px'>
-<img src='./client/src/images/Zap Dash.png' width= '800px'>
-<img src='./client/src/images/Zap project.png' width= '800px'>
-<img src='./client/src/images/Zap my issues.png' width= '800px'>
-<img src='./client/src/images/Zap view my projects.png' width= '800px'>
-<img src='./client/src/images/Zap community.png' width= '800px'>
-<img src='./client/src/images/Zap about.png' width= '800px'>
-</details>
-
----
+##Description
+A bug tracking app that combines bug tracking and project management into one application
 ## Installation
 ### For installation, it works on all operating systems and uses javascript and jsx-react. If cloning, please use "npm i" in the terminal. In addition, please use mongodb compass.
 ---
@@ -74,9 +59,7 @@
 7. Community Issues page
 - Issues cards that are rendered by the ask community issue where private issue cards in private projects now go public and can be seen by anyone in the community.
 - The cards can be clicked to open a modal where a user can comment and see other comments.
-8. About page
-- Contact the Zap Team button to open a form that will email to the zap team
-- Team cards with links to their github and/or linkedin pages.
+
 9. Mobile-Friendly
 ---
 ## Credits
