@@ -1,17 +1,3 @@
-# ZAP: Zap away bugs
-A Web-Based bug tracking application using MongoDB, Express, React, and Node.js. 
-Users can create profiles, create projects, and store issues both personal and project-related.
-
-
-
-<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge" alt="Javascript" /></a>
-<a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/-Node-orange?style=for-the-badge" alt="Node" /></a>
-<img src="https://img.shields.io/github/package-json/dependency-version/2017mike/project3/express?style=for-the-badge" alt="Express Version" />
-<img src="https://img.shields.io/github/package-json/dependency-version/2017mike/project3/mongoose?style=for-the-badge" alt="Mongoose Version" />
-
-<img style="background-color: white" src= 'https://i.imgur.com/syLKFay.png' width= '200px' />
-<br>
-<br>
 
 ## Table of Contents 
 
