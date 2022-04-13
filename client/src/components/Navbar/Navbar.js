@@ -261,12 +261,6 @@ const Navbar = ({ pages, setpageState, me, isLoggedIn, handleLogOut }) => {
               </ListItemIcon>
               <ListItemText primary="Community Issues" />
             </ListItem>
-            <ListItem button component={Link} to="/about">
-              <ListItemIcon>
-                <EmojiPeopleIcon />
-              </ListItemIcon>
-              <ListItemText primary="About" />
-            </ListItem>
           </div>
         </List>
       </Drawer>
