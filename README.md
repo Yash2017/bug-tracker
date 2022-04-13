@@ -1,17 +1,3 @@
-# ZAP: Zap away bugs
-A Web-Based bug tracking application using MongoDB, Express, React, and Node.js. 
-Users can create profiles, create projects, and store issues both personal and project-related.
-
-
-
-<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge" alt="Javascript" /></a>
-<a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/-Node-orange?style=for-the-badge" alt="Node" /></a>
-<img src="https://img.shields.io/github/package-json/dependency-version/2017mike/project3/express?style=for-the-badge" alt="Express Version" />
-<img src="https://img.shields.io/github/package-json/dependency-version/2017mike/project3/mongoose?style=for-the-badge" alt="Mongoose Version" />
-
-<img style="background-color: white" src= 'https://i.imgur.com/syLKFay.png' width= '200px' />
-<br>
-<br>
 
 ## Table of Contents 
 
@@ -24,23 +10,8 @@ Users can create profiles, create projects, and store issues both personal and p
 - [Credits](#Credits)
 - [Questions](#Questions)
 ---
-## Description
-### Zap is an app created to combine the project management and bug tracking aspects of app development. You can ask for help both within your group or ask the community. Our goal is to streamline the process of app development by giving you one place to manage projects and ask any and all questions related to development. Let's get Zapping!
----
-## Screenshots
-<details>
- <summary>Click to reveal!</summary>
-<img src='./client/src/images/Zap login.png' width= '800px'>
-<img src='./client/src/images/Zap register.png' width= '800px'>
-<img src='./client/src/images/Zap Dash.png' width= '800px'>
-<img src='./client/src/images/Zap project.png' width= '800px'>
-<img src='./client/src/images/Zap my issues.png' width= '800px'>
-<img src='./client/src/images/Zap view my projects.png' width= '800px'>
-<img src='./client/src/images/Zap community.png' width= '800px'>
-<img src='./client/src/images/Zap about.png' width= '800px'>
-</details>
-
----
+##Description
+A bug tracking app that combines bug tracking and project management into one application
 ## Installation
 ### For installation, it works on all operating systems and uses javascript and jsx-react. If cloning, please use "npm i" in the terminal. In addition, please use mongodb compass.
 ---
@@ -88,9 +59,7 @@ Users can create profiles, create projects, and store issues both personal and p
 7. Community Issues page
 - Issues cards that are rendered by the ask community issue where private issue cards in private projects now go public and can be seen by anyone in the community.
 - The cards can be clicked to open a modal where a user can comment and see other comments.
-8. About page
-- Contact the Zap Team button to open a form that will email to the zap team
-- Team cards with links to their github and/or linkedin pages.
+
 9. Mobile-Friendly
 ---
 ## Credits
