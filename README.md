@@ -17,7 +17,7 @@ A bug tracking app that combines bug tracking and project management into one ap
 ---
 ## Usage
 
-<a href='https://zapbugtracker.herokuapp.com/about'>Website</a>
+<a href='https://my-bug-tracker-application.herokuapp.com/login'>Website</a>
 
 --- 
 ## License
@@ -65,8 +65,5 @@ A bug tracking app that combines bug tracking and project management into one ap
 ## Credits
 - Due to having a lot of technologies we have to credit, we list in the following:
   - "material ui, axios, concurrently, cors, dotenv, express, if-env, jsonwebtoken, jwt-decode, mongoose, passport, passport-jwt, passport-local, passport-local-mongoose, react-beautiful-dnd, clsx, email js-com, http-proxy-middleware, react, web-vitals, 
-- Dale de Silva from pinterest for ZAP logo https://www.pinterest.com/pin/774408098395699249/
----
-## Questions
-If you have any questions please contact us through using our website https://zapbugtracker.herokuapp.com/ and on the website you will find the contact the zap team button. 
+   
 
